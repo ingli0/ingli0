@@ -4,4 +4,4 @@ the projects are a software about stock management for a store , a software to b
 
 
 
-![Ingkli's GitHub stats](https://github-readme-stats.vercel.app/api?ingli0=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingli0&show_icons=true&theme=radical)
